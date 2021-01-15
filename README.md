@@ -2,10 +2,10 @@
 
 Python divides the operators in the following groups:
 
-Arithmetic operators
-Assignment operators
-Comparison operators
-Logical operators
-Identity operators
-Membership operators
-Bitwise operators
+Arithmetic operators<br>
+Assignment operators<br>
+Comparison operators<br>
+Logical operators<br>
+Identity operators<br>
+Membership operators<br>
+Bitwise operators<br>
